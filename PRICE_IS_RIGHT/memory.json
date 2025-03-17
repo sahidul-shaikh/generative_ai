@@ -1,0 +1,47 @@
+[
+  {
+    "deal": {
+      "product_description": "The Samsung Galaxy Watch Ultra is a premium 47mm LTE Titanium smartwatch designed for both style and functionality. It features a circular display made with durable materials suitable for outdoor activities, providing GPS tracking, health monitoring, and custom apps for various needs. The robust design integrates a range of smart features including notifications, music control, and heart rate tracking, making it an ideal companion for fitness enthusiasts and tech-savvy users alike.",
+      "price": 350.0,
+      "url": "https://www.dealnews.com/Samsung-Galaxy-Watch-Ultra-47-mm-LTE-Titanium-Smartwatch-up-to-350-off-w-Trade-in-free-shipping/21663266.html?iref=rss-c142"
+    },
+    "estimate": 773.8138460593241,
+    "discount": 423.8138460593241
+  },
+  {
+    "deal": {
+      "product_description": "The Refurbished Unlocked Apple iPhone 14 Pro Max offers an impressive 256GB storage and a huge display, perfect for both media consumption and productivity. Enjoy advanced camera technology for stunning photos. This model is designed to provide a seamless user experience with 5G capabilities for faster downloads and streaming. Refurbished to high standards, it comes in various colors and can support all the latest apps from the App Store, accommodating any Apple enthusiast's needs.",
+      "price": 705.0,
+      "url": "https://www.dealnews.com/products/Apple/Unlocked-Apple-iPhone-14-Pro-Max-256-GB-Smartphone/462808.html?iref=rss-c142"
+    },
+    "estimate": 930.8824204895075,
+    "discount": 225.88242048950747
+  },
+  {
+    "deal": {
+      "product_description": "The JBL Live 660NC Wireless Noise-Cancelling Headphones offer a superior listening experience with adaptive noise cancellation and up to 50 hours of playtime. Equipped with powerful 40mm drivers, these headphones are designed for immersive sound quality. With a sleek design and comfortable fit, they are perfect for extended listening sessions, whether you're in transit or at home. The headphones also feature smart audio modes, ensuring you stay connected to your surroundings when needed.",
+      "price": 80.0,
+      "url": "https://www.dealnews.com/products/JBL/JBL-Live-660-NC-Wireless-Noise-Cancelling-Headphones/238391.html?iref=rss-c142"
+    },
+    "estimate": 133.69581718578473,
+    "discount": 53.69581718578473
+  },
+  {
+    "deal": {
+      "product_description": "The Samsung Bespoke Jet Bot Combo AI Robot Vacuum and Mop features cutting-edge technology with an All-in-One Clean Station for effortless disposal of dirt and debris. It utilizes Auto Steam Jet for effective sanitization and AI Object Recognition to navigate your home intelligently, avoiding obstacles. The added 3D Obstacle Avoidance Sensor ensures a thorough clean without interruptions, while the integrated camera recognizes and monitors your pets. This versatile device is designed for a smart cleaning experience.",
+      "price": 1100.0,
+      "url": "https://www.dealnews.com/products/Samsung/Bespoke-Jet-Bot-Combo-AI-Robot-Vacuum-and-Mop/487101.html?iref=rss-f1912"
+    },
+    "estimate": 1536.3173489514802,
+    "discount": 436.3173489514802
+  },
+  {
+    "deal": {
+      "product_description": "The Samsung Odyssey Neo G7 43\" 4K 144Hz Mini-LED FreeSync Smart Monitor is designed to provide stunning visual experiences with its ultra-high definition resolution and lightning-fast refresh rate. Ideal for both gaming and professional use, the monitor features Smart TV apps for easy access to entertainment. With ample connectivity options, including USB and HDMI inputs, it adapts well to various setups, delivering an immersive viewing experience.",
+      "price": 600.0,
+      "url": "https://www.dealnews.com/products/Samsung/Samsung-Odyssey-Neo-G7-43-4-K-144-Hz-Mini-LED-Free-Sync-Smart-Monitor/459768.html?iref=rss-f1912"
+    },
+    "estimate": 1332.3900022767148,
+    "discount": 732.3900022767148
+  }
+]
