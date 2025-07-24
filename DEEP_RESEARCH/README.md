@@ -26,16 +26,27 @@ This system is powered by multiple specialized agents:
 ## 📁 Project Structure
 
 ├── deep_research.py # Entry point with Gradio UI
+
 ├── research_manager.py # Orchestrates the full agentic research pipeline
+
 ├── planner_agent.py # Creates the search plan
+
 ├── search_agent.py # Summarizes search results
+
 ├── writer_agent.py # Writes the final report
+
 ├── email_agent.py # Saves the report as HTML
+
 ├── clarify_agent.py # Generates clarifying questions
+
 ├── agents/ # Shared agent utilities (assumed provided externally)
+
 │ ├── init.py # Agent class and Runner utilities
+
 │ └── model_settings.py # Model configuration
+
 ├── mail.html # Output HTML report (generated)
+
 ├── .env # Environment config for OpenAI credentials
 
 ## 🛠️ Setup Instructions
