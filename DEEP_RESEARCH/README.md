@@ -53,9 +53,9 @@ This system is powered by multiple specialized agents:
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/deep-research-agentic.git
+git clone [https://github.com/your-username/deep-research-agentic.git](https://github.com/sahidul-shaikh/generative_ai.git)
 
-cd deep-research-agentic
+cd DEEP_RESEARCH
 
 ### 2. Install dependencies
 Make sure you have Python 3.9+ and pip installed.
