@@ -6,11 +6,16 @@
 
 ## Project Structure
 sidekick/
+
 │
 ├── app.py              # Gradio UI for user interaction
+
 ├── sidekick.py         # Core class with LangGraph implementation
+
 ├── sidekick_tools.py   # Tool definitions (search, file ops, wiki, Python REPL, push)
+
 ├── .env                # Environment variables (not checked in)
+
 ├── README.md           # You are here!
 
 # Features
