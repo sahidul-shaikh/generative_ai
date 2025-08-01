@@ -65,11 +65,17 @@ This will launch a local Gradio app in your browser.
 
 # Architecture Overview
 flowchart TD
+
     UI[User Input via Gradio] -->|Message + Criteria| Worker
+    
     Worker -->|Tool Calls| ToolNode
+    
     ToolNode --> Worker
+    
     Worker --> Evaluator
+    
     Evaluator -->|Feedback| Worker
+    
     Evaluator -->|Success/User Input Needed| END[End or Clarify]
 
 # Future Improvements
