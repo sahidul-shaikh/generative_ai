@@ -35,8 +35,8 @@ sidekick/
 
 ## Setup Instructions
 1. **Clone the repository**
-git clone https://github.com/yourusername/sidekick.git
-cd sidekick
+git clone [https://github.com/yourusername/sidekick.git](https://github.com/sahidul-shaikh/generative_ai.git)
+cd generative_ai/sidekick
 
 2. **Create a .env file**
 OPENAI_API_KEY=your_openai_key
